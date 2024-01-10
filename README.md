@@ -82,3 +82,5 @@ Item Lists<br/>
 &ensp;	Produce Daily/Weekly/ Monthly or Yearly Sales Reports in Every Store<br/>
 &ensp;	Tracking Sales Reports from All Multi-Store Branches<br/>
 &ensp;  Produce Inventory Reports (such as inventory expense and in stock availability)  <br/><br/>
+
+✨ Copyright [2024] [May Phyu Sin Thant]
