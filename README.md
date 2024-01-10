@@ -4,7 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/) <br/>
 # Released Version
-[![Release](https://badgen.net/github/release/mayphyusinthant/pos-system?include_prereleases&label=Release)](https://github.com/mayphyusinthant/pos-system/releases/tag/v1.0.0)<br/>
+[![Release](https://badgen.net/github/release/mayphyusinthant/pos-system?include_releases&label=Release)](https://github.com/mayphyusinthant/pos-system/releases/tag/v1.0.0)<br/>
 # License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 <br/>
