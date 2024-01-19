@@ -84,11 +84,12 @@ Item Lists<br/>
 &ensp;  Produce Inventory Reports (such as inventory expense and in stock availability)  <br/><br/>
 
 <h4> Dashboard </h4>
-![image](https://github.com/mayphyusinthant/pos-system/assets/154217638/ca1f7215-3532-440f-940a-5a4ea9130b25) 
+
+
+![image](https://github.com/mayphyusinthant/pos-system/assets/154217638/0133c724-4da5-43d0-97a7-6464f50fe93d)
+<h4> Monitoring Inventory Vs Sale Reports </h4>
 
 ![image](https://github.com/mayphyusinthant/pos-system/assets/154217638/e7f57d85-4f1d-4a07-b4e7-19bf9bf47c20)
-
-
 
 
 ✨ Copyright [2024] [May Phyu Sin Thant]
